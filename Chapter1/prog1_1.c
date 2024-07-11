@@ -41,6 +41,8 @@ int main(){
     printf("Charactor print %s \n", charry);
     printf("Charactor print %s \n", charry1);
 
+    printf("Coverd all Necessary Data types ");
+
     return 0;
     
 }
